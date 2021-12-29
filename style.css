@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Oxygen:wght@700&display=swap");
+.navbar-toggler {
+  width: 47px;
+  height: 34px;
+  background-color: #7eb444;
+  border: none;
+}
+.navbar-toggler .line {
+  width: 100%;
+  float: left;
+  height: 2px;
+  background-color: #fff;
+  margin-bottom: 5px;
+}
+a,
+p {
+  font-family: Inter;
+}
+.mar-5 {
+  margin-top: 10rem !important;
+}
+body {
+  background-image: url(circleblur.svg);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: cover;
+}
